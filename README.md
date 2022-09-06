@@ -1,5 +1,6 @@
 # design-choise
-An educational material to choose which design is better.
+An educational material to choose which design is better.  
+Following figures represent design B.
 
 ```mermaid
 classDiagram
