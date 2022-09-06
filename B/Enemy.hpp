@@ -14,10 +14,10 @@ public:
     }
     GameObject* act() {
         _y += 3;
+        _angle += 2;
         return NULL;
     }
     void draw() {
-        _angle += 2;
         _body = Triangle{ _x, _y, _side }.rotated(_angle);
         _body.draw();
     }
