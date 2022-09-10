@@ -1,4 +1,4 @@
-# design-choise
+# Design choice
 An educational material to choose which design is better.  
 Following figures represent design B.
 
